@@ -1,0 +1,7 @@
+create table Compra(
+No_Factura Varchar(50) primary key not null,
+producto Nvarchar (20),
+fecha date,
+cantidad int,
+);
+ 
